@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="104.83mm" height="70.426mm" version="1.1" viewBox="0 0 104.83 70.426" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Speak Bubble</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Speak Bubble</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-45.94 -30.866)">
+  <g transform="matrix(.26458 0 0 .26458 -44.665 76.958)">
+   <g transform="matrix(.71238 -.056965 .059178 .68575 -1324.1 -432.43)">
+    <g transform="translate(944.43 773.93)">
+     <g transform="matrix(-.84754 -.070406 -.07314 .88046 1550.2 170.58)" stroke="#b6c8d3" stroke-width="19.364">
+      <path d="m-337.26 21.264 41.765-94.921c-26.397-20.611-73.406-53.156-72.682-113.91-0.38872-91.61 124.46-149.14 221.84-148.08 129.45-0.1808 227.45 67.439 227.27 147.53-0.1808 108.48-151.69 178.99-306.46 141.57z" fill="#fff" stroke-linejoin="round"/>
+      <g fill="none">
+       <path d="m-41.511-258.47h-216.47"/>
+       <path d="m-41.511-220.26h-82.184"/>
+       <path d="m-41.511-181.19h-162.18"/>
+       <path d="m-41.511-140.83h-200.04"/>
+       <path d="m-41.511-97.544h-108.61"/>
+      </g>
+     </g>
+     <g transform="matrix(.84754 .070406 -.07314 .88046 1642.9 123.71)">
+      <g stroke="#dce5ea" stroke-width="19.364">
+       <path d="m-337.26 21.264 41.765-94.921c-26.397-20.611-73.406-53.156-72.682-113.91-0.38872-91.61 124.46-149.14 221.84-148.08 129.45-0.1808 227.45 67.439 227.27 147.53-0.1808 108.48-151.69 178.99-306.46 141.57z" fill="#fff" stroke-linejoin="round"/>
+       <g fill="none">
+        <path d="m-242.61-258.47h216.47"/>
+        <path d="m-242.61-220.26h82.184"/>
+        <path d="m-242.61-181.19h162.18"/>
+        <path d="m-242.61-140.83h200.04"/>
+        <path d="m-242.61-97.544h108.61"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
